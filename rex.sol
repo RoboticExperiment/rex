@@ -14,7 +14,7 @@ pragma solidity 0.8.4;
 contract RoboticExperiment {
     string public name = "Robotic Experiment";
     string public symbol = "REX";
-    uint256 public totalSupply = 1000000000000000000000000; // 1 million tokens
+    uint256 public totalSupply = 10000000000000000000000001; // 1 million tokens
     uint8 public decimals = 18;
     
     /**
